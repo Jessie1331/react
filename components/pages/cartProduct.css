@@ -1,0 +1,28 @@
+.cart-product{
+    display: flex;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    background-color: whitesmoke;
+    align-items: center;
+    margin-bottom: 12px;
+
+}
+.cart-product img{
+    height: 70px;
+}
+    .cart-product .info{
+        flex: 4;
+    }
+    .cart-product .info h4{
+        color: #333;
+        margin-bottom: 0;
+    }
+    .cart-product .info p{
+        margin-bottom: 0;
+    }
+
+
+    .cart-product label{
+        flex: 2;
+    }

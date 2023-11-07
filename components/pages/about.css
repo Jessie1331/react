@@ -1,0 +1,41 @@
+
+.about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+  
+    background-color: beige;
+    background-image: url("https://www.yankodesign.com/images/design_news/2023/04/auto-draft/renaissance_architecture_footwear_midjourney_1.jpg");
+background-color:rgb(203, 204, 165);
+background-size: cover;
+
+}
+.parent h3{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    color: gold;
+}
+h1{
+
+
+    font-size: 55px;
+    padding-top: -40%;
+}
+h3{
+    font-style: italic;
+    font-size: 33px;
+
+
+}
+
+
+
+.parent {
+    font-size: 18px;
+    font-weight: 700;
+ color: aqua;
+   margin: 30px;
+}
+

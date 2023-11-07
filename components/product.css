@@ -1,0 +1,30 @@
+.product{
+    border: 1px solid gold;
+    display: inline-block;
+    width: 220px;
+    height: 400px;
+    margin: 5px 7px;
+    border-radius: 5px;
+  
+
+    background-color: rgb(199, 139, 70) ;
+    
+
+}
+.product:hover{
+    cursor: pointer;
+    color: rgb(202, 70, 14);
+
+}
+.product h5{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.product img{
+    width: 200px;
+    height: 200px;
+}
+.add-btn{
+   position: relative;
+   top: -15px;
+}

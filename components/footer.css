@@ -1,0 +1,39 @@
+.footer{
+
+    color: white;
+   
+    font-size: 43px;
+    background-color: rgb(40, 75, 95);
+    height: 100px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+      color: white;
+      font-family: 'Trebuchet MS';
+      font-weight: 300;
+      font-style: normal;
+    text-align: center;
+    font-stretch: expanded;
+    padding-left: 20px;
+    padding-top: 13px;
+    text-align: center;
+    margin-top: 15px;
+
+}
+/* .footer button
+{=
+    background-color: burlywood;
+    color: black;
+    height: 35px;
+    width: 120px;
+     float: right;
+     border-width: 2px;
+     
+     font-family: cursive;
+     font-size: 18px;
+
+    text-align: center;
+    margin-top: 25px;
+    margin-right: 60px;
+    cursor: pointer; 
+} */

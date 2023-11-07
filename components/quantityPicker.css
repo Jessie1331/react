@@ -1,0 +1,38 @@
+.quantityPicker label{
+    font-family: lubalin;
+    display: inline-block;
+    font-size: 40px;
+    margin-top: 25px;
+    
+
+    
+    
+
+    font-size: 15px;
+
+}
+.fs-1{
+    margin-top: 20%;
+    padding-top: 10px;
+    padding-left:10px;
+}
+.quantityPicker button{
+    background-color: rgb(220, 223, 220);
+    margin-top: -10px;
+    
+    color: rgb(176, 42, 42);
+    align-content: center;
+    font-weight: 300;
+    font-size: 15px;
+    font-family: lucida;
+
+}
+.quantityPicker button:hover{
+    cursor: pointer;
+    color: rgb(49, 42, 176);
+    background-color: rgb(220, 223, 220);
+}
+
+.quantityPicker{
+    margin-top: -20%;
+}

@@ -1,0 +1,58 @@
+.home2
+{
+    background-image: url("../images/colorful-abstract-wallpaper-modern-background-ai-generated-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+h1{
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 700;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    float: center;
+
+
+}
+.form h3{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+
+    margin-top: 30px;
+    background-color: rgb(189, 171, 70);
+    width: 80%;
+}
+
+
+.control{
+   
+  width: 80%;
+
+}
+.left{
+    flex: 3;
+    margin: 15px;
+}
+.right{
+   
+    flex: 3;
+     margin:28px;
+}
+.form-label{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+  
+    background-color: rgb(189, 171, 70);
+}
+
+.float-img{
+    padding-top: 30px;
+}

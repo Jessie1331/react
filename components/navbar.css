@@ -1,0 +1,33 @@
+.navbar{
+
+
+
+
+  background-color: rgb(40, 75, 95);
+
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+    color: white;
+    font-family:  Geneva;
+    font-weight: 300;
+    font-style: normal;
+    
+
+}
+
+.navbar a{
+    color: silver;
+    text-decoration: none;
+}
+.navbar li:hover{
+    cursor: pointer;
+    background-color: rgb(60, 115, 124);
+}
+.profile{
+     align-content: center;
+     margin-left: 65%;
+}
+.cart{
+    margin-left: 15px;
+}

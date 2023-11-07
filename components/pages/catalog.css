@@ -1,0 +1,39 @@
+*{  
+   line-height: 2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.catalog {
+    background-image: url("https://img.freepik.com/premium-photo/abstract-wave-background-with-blue-pink-black-lines-style-light-purple-red-uhd-image-sparse-backgrounds-smokey-background-generate-ai_572887-2249.jpg?w=740");
+    background-size: cover;
+
+    text-align: center;
+}
+.catalog h1{
+
+    font-size: 55px;
+    font-weight: 300;
+    padding-top: 10 px;
+    
+}
+.fl{
+    float: center;
+    text-align: center;
+ 
+    font-size: 88px;
+ 
+   font-style: italic;
+   font-stretch: expanded;
+
+}
+.catalog h2{
+    margin-bottom: 60px;
+    
+}
+.btn-secondary{
+    margin-top: -7%;
+    margin-left:10px;
+
+
+}
